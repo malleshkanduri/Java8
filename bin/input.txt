@@ -1,0 +1,10 @@
+Home:HomeDetail;home.jsp
+Home|A;A.jsp
+Guest;Guesh.jsp
+Home|B;B.jsp
+Home|A|1;1.jsp
+Home|A|2;2.jsp
+Home|B|11;11.jsp
+Home|B|12;12.jsp
+Home|A|1|aa;aa.jsp
+Home|A|1|ab;ab.jsp
