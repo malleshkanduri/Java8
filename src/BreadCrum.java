@@ -26,7 +26,7 @@ public class BreadCrum {
 		 * Home|A|1|ab;ab.jsp
 		 */
 		
-		Scanner scanner = new Scanner(new File("C:\\dev\\workspace-sts\\dev\\0_dev\\src\\input.txt"));
+		Scanner scanner = new Scanner(ClassLoader.getSystemResourceAsStream("./input.txt"));
 		
 		while (scanner.hasNextLine()) {
 			String line = scanner.nextLine();
